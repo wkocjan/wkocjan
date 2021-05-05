@@ -1,6 +1,6 @@
 ### Hello, I'm [Wojciech!](https://kocjan.net) 👋
 
-I’m an experienced Frontend-oriented Product Engineer.
+I’m a Product Engineer with a Front-end focus.
 
 I learned HTML and launched my first website back in 2001 when I was in high school. Since then I've experienced the web industry in many different roles and angles.
 
